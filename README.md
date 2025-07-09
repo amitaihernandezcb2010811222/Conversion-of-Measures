@@ -8,8 +8,8 @@
 ### ✨ Características Principales (¡Hasta ahora!):
 
 * **Conversión de Temperatura:** De Celsius a Fahrenheit, Kelvin y viceversa. ¡Ideal para entender el clima en cualquier lugar del mundo! ☀️❄️
-* **Conversión de Peso:** Transforma gramos a kilogramos, libras a onzas y mucho más. ¡Útil para la cocina o para cálculos básicos! 📦
-* **Conversión de Tiempo:** Convierte entre segundos, minutos, horas, días, semanas e incluso años. ¡Una forma sencilla de gestionar lapsos! ⏳
+* **Conversión de Peso:** Transforma gramos a kilogramos, libras a gramos y mucho más. ¡Útil para la cocina o para cálculos básicos! 📦
+* **Conversión de Tiempo:** Convierte entre segundos, minutos, horas y días. ¡Una forma sencilla de gestionar lapsos! ⏳
 * **Conversión de Moneda:** Incluye conversiones entre algunas de las principales divisas. ¡Perfecto para empezar a entender el mundo financiero! 💸 (Nota: Por ahora, las tasas son fijas para simplificar el aprendizaje, ¡pero planeo integrar APIs para datos en tiempo real más adelante! 😉)
 
 ---
